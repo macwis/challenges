@@ -1,0 +1,7 @@
+2
+hello
+world
+hi
+world
+YES
+NO
